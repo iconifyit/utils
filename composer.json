@@ -14,6 +14,6 @@
       "Iconifyit\\" : "Utils/"
     }
   },
-  "version": "1.0.0",
-  "minimum-stability": "dev"
+  "version": "v1.0.0",
+  "minimum-stability": "dev-master"
 }
