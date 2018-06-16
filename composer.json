@@ -3,7 +3,6 @@
   "description": "General PHP utilities package.",
   "keywords": ["php", "filter", "utils"],
   "type": "package",
-  "minimum-stability": "stable",
   "license": "MIT",
   "authors": [{
       "name": "Scott Lewis",
@@ -13,6 +12,5 @@
     "psr-4": {
       "Iconifyit\\" : "Utils/"
     }
-  },
-  "version": "v1.0.0"
+  }
 }
