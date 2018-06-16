@@ -1,2 +1,3 @@
-# utils
-General utility package for PHP projects
+# Utils
+
+A general utilities package primarily for basic PHP projects but with some WordPress specific tools.
