@@ -1,0 +1,19 @@
+{
+  "name": "iconifyit/utils",
+  "description": "General PHP utilities package.",
+  "keywords": ["php", "filter", "utils"],
+  "type": "package",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [{
+      "name": "Scott Lewis",
+      "email": "scott@atomiclotus.net"
+  }],
+  "autoload": {
+    "psr-4": {
+      "Iconifyit\\" : "Utils/"
+    }
+  },
+  "version": "1.0.0",
+  "minimum-stability": "dev"
+}
